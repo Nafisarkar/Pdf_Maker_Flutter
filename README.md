@@ -36,52 +36,9 @@ Features
 *   Allows users to name the PDF file before saving.
 *   Saves PDF files to the device's storage.
 
-### Permissions Handling
-
-*   Requests necessary permissions to ensure smooth functionality, such as
-    storage and camera access.
-
 ### Theme Support
 
 *   Toggle between light and dark modes.
-
-### Error Handling
-
-*   Informative snack bars for missing inputs, errors, or successful operations.
-
-
-Tech Stack
-========
-
-Programming Language: Dart
-
-Framework: Flutter
-Libraries Used:
-*   awesome_snackbar_content: For styled snack bar notifications.
-*   cunning_document_scanner: For scanning documents.
-*   image_picker: For image selection.
-*   carousel_slider: For carousel image preview.
-*   syncfusion_flutter_pdf: For generating PDF files.
-*   permission_handler: For handling app permissions.
-*   url_launcher: For opening external URLs.
-*   provider: For theme management.
-*   logger: For logging debug information.
-
-Installation
-============
-
-Clone the repository:
-
-    git clone https://github.com/Nafisarkar/pdf-maker-app.git
-    cd pdf-maker-app
-
-Install dependencies:
-
-    flutter pub get
-
-Run the app:
-
-    flutter run
 
 Usage
 =====
