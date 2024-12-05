@@ -1,4 +1,10 @@
 # PDF Maker App
+<img src="https://i.ibb.co/7krYHq5/New-Project.png" width="1400" />
+
+
+<!-- BEGIN LATEST DOWNLOAD BUTTON -->
+[![Download](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download")](https://github.com/Nafisarkar/Pdf_Maker_Flutter/releases/download/Releasev1.0.0/pdfmakerv1.apk)
+<!-- END LATEST DOWNLOAD BUTTON -->
 
 Overview
 ========
@@ -120,6 +126,4 @@ Switch Themes:
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Developed by: Shaon An Nafi  
-GitHub: [https://github.com/Nafisarkar](https://github.com/Nafisarkar)
 
