@@ -107,22 +107,6 @@ Switch Themes:
 
     Tap the moon icon in the app bar to toggle between light and dark modes.
 
-## Screenshots
-
-### Feature Preview
-- **Image Selection**
-- **Carousel Preview**
-- **PDF Generation**
-
-### Permissions Required
-- **Storage:** For saving and accessing PDF files.
-- **Camera:** For capturing new images.
-- **Manage External Storage:** For accessing the device's file system.
-
-## Future Enhancements
-- Add support for additional PDF customizations (e.g., page layouts, compression).
-- Include cloud storage integration sharing PDFs.
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
